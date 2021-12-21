@@ -5,7 +5,7 @@
 - 💻 Software Engineer
 - 😄 Pronouns: he/they
 - 📍 San Francisco Bay Area
-- 🍳 Former sous chef
+
 
 ### Contact
 [![LinkedIn](https://img.shields.io/badge/sbarkerdudley%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sbarkerdudley/)](https://www.linkedin.com/in/sbarkerdudley/)

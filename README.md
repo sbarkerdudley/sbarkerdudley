@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Sam
 
 - 💻 Software Engineer
+- 😄 Pronouns: they/them
 - 👨‍🍳 Former Sous Chef
-- 😄 Pronouns: he/they
 - 📍 San Francisco Bay Area
 
 ### Contact
